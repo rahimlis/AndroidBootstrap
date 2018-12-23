@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AndroidBootstrap</string>
+
+    <string name="bootstrap_error_file">File Error</string>
+    <string name="bootstrap_error_http">HTTP data error. Check your connection</string>
+    <string name="bootstrap_error_insufficient_space">Insufficient space. Please free a bit memory</string>
+    <string name="bootstrap_error_too_many_redirects">Too many redirects. Terminating</string>
+    <string name="bootstrap_error_unhandled_http">Unhandled HTTP code. Please try again later</string>
+    <string name="bootstrap_error_unknown">Uknown error occurred while downloading</string>
+    <string name="bootstrap_error_already_downloaded">File already exists</string>
+    <string name="bootstrap_error_cannot_resume">Download cannot be resumed</string>
+    <string name="bootstrap_error_cannot_find_sd_card">Cannot find sd card</string>
+
+    <string name="bootstrap_message_download_started">Download has beed started</string>
+    <string name="bootstrap_message_download_completed">Download completed</string>
+    <string name="bootstrap_message_queued_for_wifi">Download is queued for wifi</string>
+    <string name="bootstrap_message_paused_uknown">Paused for unknown reason</string>
+    <string name="bootstrap_message_waiting_for_network">Waiting for network. Paused</string>
+    <string name="bootstrap_message_waiting_for_retry">Paused. Waiting for retry</string>
+    <string name="bootstrap_message_download_manager_enable">Your download manager is not enabled. Please enable it.</string>
+    <string name="bootstrap_message_go_to_enable">Go to enable</string>
+
+    <string name="bootstrap_title_download_manager">Download manager</string>
+
+</resources>
